@@ -163,7 +163,7 @@ Sometimes, your on-premises AD users UPNs could be different from your Azure AD 
 > [!NOTE]
 > The information in this section applies only to an on-premises users UPN. It isn't applicable to an on-premises computer domain suffix (example: computer1.contoso.local).
 
-The table below provides details on support for these on-premises AD UPNs in Windows 10 Hybrid Azure AD join
+The table below provides details on support in Windows 10 Hybrid Azure AD join, for these on-premises AD user UPNs that are different to Azure AD UPNs
 
 | Type of on-premises AD UPN | Domain type | Windows 10 version | Description |
 | ----- | ----- | ----- | ----- |
